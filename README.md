@@ -1,2 +1,2 @@
 # sangieecoding
-codingstudy
+codingstudy 2번째
